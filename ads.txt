@@ -1,0 +1,4 @@
+# Ad list
+# ----------------
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googlesyndication.com
